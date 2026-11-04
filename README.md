@@ -1,5 +1,3 @@
-# cuijie061210.github.io
-
 # PERSONAL PORTFOLIO
 
 # CUIJIE
